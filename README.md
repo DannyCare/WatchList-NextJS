@@ -1,5 +1,5 @@
 # WatchList
-WatchList is a multi-user app that lets you track the movies and TV that you watch.
+WatchList is a multi-user app that lets you track the movies and TV that you watch
 
 You can track how many times you watched something, where you watched it and when you watched it. You can also rate movies or shows and get recommendations based on the movie or show you are looking at.
 
